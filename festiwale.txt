@@ -1,0 +1,1498 @@
+
+  <td height=146 class=xl65 width=64 style='height:109.2pt;width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/60/Belgium-Festival_Mondial_de_Folklore_de_Jambes-Namur"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Mondial de Folklore de Jambes-Namur</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/46/Belgium-Wereldfestival_Dans_en_Muziek_KA-dans_Torhout"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Wereldfestival
+  Dans en Muziek KA-dans Torhout</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/63/Belgium-Bonheidansfestival_-_IFF_Bonheiden"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Bonheidansfestival.2020
+  IFF Bonheiden</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/623/Belgium-Paasfeesten-Leuven"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Paasfeesten-Leuven</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/52/Belgium-International_Folklorefestival_Westerlo"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklorefestival Westerlo</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/29/Belgium-Festival_Mondial_de_Folklore_de_la_Ville_de_Saint-Ghislain"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Mondial de Folklore de la Ville de Saint-Ghislain</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/34/Belgium-Werelddansfestival_Hello%21Schoten"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Werelddansfestival
+  Hello!Schoten</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/40/Belgium-Internationaal_Folkloristisch_Oogstfeest_De_Pikkeling"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Internationaal
+  Folkloristisch Oogstfeest De Pikkeling</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4450/Bosnia_and_Herzegovina-International_chilfren_folklore_festival_Vaskrsnji_koncert_Banja_Luka"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  chilfren folklore festival Vaskrsnji koncert Banja Luka</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4723/Bosnia_and_Herzegovina-Kozara_Ethno_International_Folklore_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Kozara
+  Ethno International Folklore Festival</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4803/Bosnia_and_Herzegovina-International_Folklore_Festival_Dani_caske_Puracic"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Dani caske' Puracic</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1701/Bosnia_and_Herzegovina-International_Folklore_Festival_Inter_Folk_Fest_Bosiljkovanje_Derventa"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Inter Folk Fest Bosiljkovanje' Derventa</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4649/Bulgaria-DOBRICH_International_Festival_Folklore_without_borders_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>DOBRICH
+  International Festival 'Folklore without borders'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4878/Bulgaria-TSAREVETS_Folklore_Festival_%E2%80%9CFolklore_wellspring%E2%80%9D_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>TSAREVETS
+  Folklore Festival “Folklore wellspring”</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/94/Bulgaria-VARNA_International_Folklore_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>VARNA
+  International Folklore Festival</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/91/Bulgaria-VELIKO_TARNOVO_International_Folklore_Festival_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>VELIKO
+  TARNOVO International Folklore Festival</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4754/Croatia-International_Folklore_Festival_Zagreb"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival Zagreb</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1042/Croatia-International_Festival_of_Traditional_Music_instruments"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Festival of Traditional Music instruments</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/810/Croatia-International_Folk_Festival_Karlovac"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folk Festival Karlovac</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/774/Czech_Republic-Festival_Silesian_Days%2C_Dolni_Lomna"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Silesian Days, Dolní Lomná</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4745/Czech_Republic-International_folklore_festival_Klatovy"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  folklore festival Klatovy</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/144/Czech_Republic-International_Bagpipe_Festival_Strakonice%2CStrakonice"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Bagpipe Festival Strakonice,Strakonice</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/143/Czech_Republic-International_Folklore_Festival_Brno%2CBrno"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival Brno,Brno</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4808/Czech_Republic-Fa%C5%A1ank_-_Folklore_Festival_Shrovetide_Tradition"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Fašank.2020
+  Folklore Festival Shrovetide Tradition</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4810/Czech_Republic-International_Folklore_Festival_CIOFF_Pilsen_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival CIOFF 'Pilsen'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4813/Czech_Republic-International_Folklore_Festival_Stra%C5%BEnice%2C_Stra%C5%BEnice"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival Strážnice, Strážnice</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/3012/Czech_Republic-International_Folklore_Festival_CIOFF%C2%AE%2C_%C5%A0umperk"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival CIOFF®, Šumperk</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/773/Czech_Republic-International_Folklore_Festival_Folklore_without_boundaries_%2C_Ostrava"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Folklore without boundaries', Ostrava</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4811/Czech_Republic-International_Folklore_Festival_CIOFF%2C_Fr%C3%BDdek_-_Mistek"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival CIOFF, Frýdek.2020 Místek</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4492/Estonia-Voru_Folklore_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>V&otilde;ru
+  Folklore Festival</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4861/Estonia-Finno-Ugrian_Days"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Finno-Ugrian
+  Days</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4495/France-Festi_Roche_-_Roche_la_Moliere"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festi'Roche.2020
+  Roche la Moli&egrave;re</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/155/France-Les_Sacres_du_Folklore_de_Reims"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Les
+  Sacres du Folklore de Reims</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1804/France-Festival_chants_danses_et_musiques_du_monde_de_Sarran"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  chants danses et musiques du monde de Sarran</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/634/France-Festival_International_de_Folklore__Cultures_et_Traditions_du_Monde_de_Romans"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  International de Folklore 'Cultures et Traditions du Monde' de Romans</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4448/France-Les_Foliklores_de_Segre"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Les
+  Foliklores de Segré</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/747/France-Festival_d_Ambert_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  d'Ambert</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/181/France-Festival_Danses%2C_Musiques_et_Voix_du_Monde_de_Felletin"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Danses, Musiques et Voix du Monde de Felletin</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4853/France-Festival_international_de_Folklore_La_Farandole_-_Nice"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  international de Folklore La Farandole.2020 Nice</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/163/France-Festival_Mondial_Folk_de_Plozevet"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Mondial'Folk de Plozevet</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1805/France-Folklores_du_Monde_de_Saint_Malo"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folklores
+  du Monde de Saint Malo</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/910/France-Festival_International_de_Folklore_de_Chambly"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  International de Folklore de Chambly</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4497/France-Festival_d_Alencon__danses_et_musiques_du_Monde"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  d'Alençon : danses et musiques du Monde</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/705/France-Festival_des_enfants_du_Monde_de_Saint_Maixent_l_Ecole"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  des enfants du Monde de Saint Maixent l'Ecole</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/930/France-Spectacles_du_monde_-_Port_sur_Saone"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Spectacles
+  du monde.2020 Port sur Saône</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/186/France-Festival_de_Montoire_-_Les_cultures_du_Monde"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  de Montoire.2020 Les cultures du Monde</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4780/France-Festival_du_Houblon_-_Haguenau"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  du Houblon.2020 Haguenau</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/3016/France-Fetes_de_la_Vigne_de_Dijon"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>F&ecirc;tes
+  de la Vigne de Dijon</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4388/France-Festival_mondial_des_Cultures_du_Monde_de_Chambery"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  mondial des Cultures du Monde de Chambéry</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/161/France-Interfolk_du_Puy_en_Velay"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Interfolk
+  du Puy en Velay</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1802/France-Festival_International_d_Issoire-_Danses_et_musiques_du_Monde"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  International d'Issoire- Danses et musiques du Monde</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/169/France-Festival_Cultures_aux_c%C5%93urs_-_Montignac"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Cultures aux c&#339;urs.2020 Montignac</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/177/France-Festival_du_Rouergue_-_Cultures_du_Monde"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  du Rouergue.2020 Cultures du Monde</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/179/France-Festival_danses_et_musiques_du_monde_-_Amelie_les_bains"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  danses et musiques du monde.2020 Amélie les bains</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/184/France-Festival_de_Confolens_-_danses_et_musiques_du_monde"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  de Confolens.2020 danses et musiques du monde</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1808/France-Festival_Gauargi_Enfants_et_Danses_du_Monde_d_Espelette"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Gauargi 'Enfants et Danses du Monde' d'Espelette</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/947/France-Les_Couleurs_du_Monde_de_Pujols"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Les
+  Couleurs du Monde de Pujols</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/167/France-Festival_de_Gannat_Les_Cultures_du_Monde_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  de Gannat 'Les Cultures du Monde'</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/197/Germany-Thuringer_Tanzfest"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Thüringer
+  Tanzfest</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/203/Germany-Internationales_Trachtentreffen_der_Mosel_in_Krov"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Internationales
+  Trachtentreffen der Mosel in Kröv</span></a></td>
+ </tr>
+ <tr height=62 style='height:46.8pt'>
+  <td height=62 class=xl65 width=64 style='height:46.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4433/Germany-Rudolstadt-Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Rudolstadt-Festival</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/215/Germany-Europaisches_Folklore-Festival_Bitburg"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Europäisches
+  Folklore-Festival Bitburg</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/801/Germany-Intern._Folklore-_und_Trachtenfest_Schwalenberg"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  Folklore- und Trachtenfest Schwalenberg</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/257/Germany-Internationale_Braunlinger_Kilbig"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Internationale
+  Bräunlinger Kilbig</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4946/Germany-Grand_Prix_der_Folklore_fur_Jugendliche"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Grand
+  Prix der Folklore für Jugendliche</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/190/Germany-Balingen_International"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Balingen
+  International</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/727/Germany-Internationales_Hahnentanzfest"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Internationales
+  Hahnentanzfest</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/729/Germany-Europaische_Jugendwoche_Burg_Ludwigstein"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Europäische
+  Jugendwoche Burg Ludwigstein</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/262/Greece-Intern._Folk_Festival_of_Naoussa_CIOFF%C2%AE-PYRSOS-NAOUSSA_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  Folk Festival of Naoussa 'CIOFF®-PYRSOS-NAOUSSA'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/268/Greece-Intern._Pierides_Musses_Folk_Festival%2C_Katerini"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  'Pierides Musses' Folk Festival, Katerini</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/259/Greece-Intern._Folk_Festival_Sun_and_Stone_%2C_Nea_Karvali_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  Folk Festival 'Sun and Stone', Nea Karvali</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4884/Greece-_EPIVATIANA_International_Festival_of_Culture%2C_Folklore_and_Tradition"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>'EPIVATIANA'
+  International Festival of Culture, Folklore and Tradition</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/265/Greece-International_Folk_Festival_Tradition-Dance-Friendship_%2C_Ioannina"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folk Festival 'Tradition-Dance-Friendship', Ioannina</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/635/Greece-_Akritia_International_Folk_Festival%2C_Aridea"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>'Akritia'
+  International Folk Festival, Aridea</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4516/Greece-_Kyparissia_Sunshine_International_Folklore_festival."
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>'Kyparissia
+  Sunshine' International Folklore festival.</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4923/Hungary-Matyofold_Folklore_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Matyofold
+  Folklore Festival</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4920/Hungary-All_Hungary_International_Festival_of_Folk_Dance"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>All
+  Hungary International Festival of Folk Dance</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4924/Hungary-Royal_Days_International_Folk_Dance_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Royal
+  Days International Folk Dance Festival</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4918/Hungary-Flower_Carnival_Debrecen"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Flower
+  Carnival Debrecen</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4919/Hungary-Danube_Carnival_International_Cultural_Festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Danube
+  Carnival International Cultural Festival</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4925/Hungary-Summerfest_International_Folklore_Festival_and_Folkart_Fair"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Summerfest
+  International Folklore Festival and Folkart Fair</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/952/Italy-Festival_Internazionale_del_Folklore_di_Matelica"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internazionale del Folklore di Matelica</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4658/Italy-_Butinle_in_Stajare_-Incontro_della_cultura_popolare_europea_-_Buja"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Butinle
+  in Stajare'-Incontro della cultura popolare europea.2020 Buja</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4939/Italy-Festival_Internazionale_del_Folclore_-_Roccalumera"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internazionale del Folclore.2020 Roccalumera</span></a></td>
+ </tr>
+ <tr height=42 style='height:31.2pt'>
+  <td height=42 class=xl65 width=64 style='height:31.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/644/Italy-Calabria_Festival_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Calabria
+  Festival</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/847/Italy-Rassegna_Internazionale_del_Folklore_Moles_Aeterna_-_Moliterno"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Rassegna
+  Internazionale del Folklore 'Moles Aeterna'.2020 Moliterno</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/330/Italy-Festival_Mondiale_del_Folklore__Castello_di_Gorizia_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Mondiale del Folklore 'Castello di Gorizia'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/297/Italy-Folk_Anacapri_%26_Festival_del_Sud_Pontino_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folk
+  Anacapri &amp; Festival 'del Sud Pontino'</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/950/Italy-Romolo_Folk_Fest_-_Santa_Teresa_di_Riva"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Romolo
+  Folk Fest.2020 Santa Teresa di Riva</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/3015/Italy-_Sile_Folk_-_Treviso"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Sile
+  Folk'.2020 Treviso</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4914/Italy-Festival_Internazionale_del_Folklore_Terranostra_di_Apiro"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internazionale del Folklore 'Terranostra' di Apiro</span></a></td>
+ </tr>
+ <tr height=250 style='height:187.2pt'>
+  <td height=250 class=xl65 width=64 style='height:187.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1003/Italy-Festival_Internazionale_del_Folklore_Incontro_di_Cultura_Popolare_-_Macerata"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internazionale del Folklore 'Incontro di Cultura Popolare'.2020 Macerata</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/328/Italy-Momenti_di_Folklore_Internazionale_-_Agrigento"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Momenti
+  di Folklore Internazionale.2020 Agrigento</span></a></td>
+ </tr>
+ <tr height=270 style='height:202.8pt'>
+  <td height=270 class=xl65 width=64 style='height:202.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4935/Italy-Folklore_International_Festival_meeting_of_dances_and_popular_traditions_-_Bolotana_NU_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folklore
+  International Festival meeting of dances and popular traditions.2020 Bolotana
+  (NU)</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/310/Italy-Festival_delle_Torri_-_Cava_de_Tirreni"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  'delle Torri'.2020 Cava de' Tirreni</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4660/Italy-Incontro_Internazionale_del_Folklore_-_Taurano"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Incontro
+  Internazionale del Folklore.2020 Taurano</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/324/Italy-Festival_dei_Cuori_-_Tarcento"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  'dei Cuori'.2020 Tarcento</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/970/Italy-_Figulinas_Festival_-_Florinas"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Figulinas'
+  Festival.2020 Florinas</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1001/Italy-Festival_dei_Colli_Cimini_-_Vignanello"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  'dei Colli Cimini'.2020 Vignanello</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/315/Italy-Festival_Internazionale_del_Folklore_Aviano-Piancavallo_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internazionale del Folklore 'Aviano-Piancavallo'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4936/Italy-Ballus_Incontro_Internazionale_del_Folklore_-_Uta"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Ballus
+  Incontro Internazionale del Folklore.2020 Uta</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4311/Italy-Latium_World_Folkloric_Festival_-_Cori"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Latium
+  World Folkloric Festival.2020 Cori</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/846/Italy-Rassegna_Internazionale_del_Folklore_-_Castiglione_del_Lago"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Rassegna
+  Internazionale del Folklore.2020 Castiglione del Lago</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/353/Lithuania-International_Instrumental_Folk_Music_Festval_Griezyne_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Instrumental Folk Music Festval 'Griezyné'</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/347/Lithuania-International_Folklore_Festival_Baltica_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Baltica'</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4838/North_Macedonia-Folklore_festival_CVETOVI_-_Skopje"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folklore
+  festival CVETOVI.2020 Skopje</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4847/North_Macedonia-International_students_folk_festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  students folk festival</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4480/North_Macedonia-International_Folklore_Festival__GAZI_BABA_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival ' GAZI BABA '</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4449/North_Macedonia-Folk_dance_festival__Ilinden_days_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folk
+  dance festival ' Ilinden days '</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4762/North_Macedonia-International_folk_festival_Istibanjsko_Zdravozivo_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  folk festival 'Istibanjsko Zdravozivo'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4850/North_Macedonia-International_culture_manifestation_Days_of_Iljo_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  culture manifestation 'Days of Iljo'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4697/Poland-Miedzynarodowy_Festiwal_Folkloru-_Ozarow_Mazowiecki"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowy
+  Festiwal Folkloru- Ozarów Mazowiecki</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/406/Poland-Miedzynarodowe_Spotkania_z_Folkorem_Interfolk_%2C_Kolobrzeg"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowe
+  Spotkania z Folkorem 'Interfolk', Kolobrzeg</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4699/Poland-Miedzynarodowy_Dzieciecy_Festiwal_Flkloru_KIDS_FUN_FOLK"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowy
+  Dzieciecy Festiwal Flkloru KIDS FUN FOLK</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/856/Poland-International_Folklore_Festival_Eurofolk_%2C_Zamosc"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Eurofolk', Zamosc</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/386/Poland-International_Folklore_Meetings_Lublin"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Meetings Lublin</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/857/Poland-Miedzynarodowe_Olsztynskie_Dni_Folkloru_Warmia_%2C_Olsztyn"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowe
+  Olsztynskie Dni Folkloru 'Warmia', Olsztyn</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/398/Poland-Intern._Festival_Kaszubskie_Spotkania_z_Folklorem_Swiata%2C_Brusy-Wiele"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  Festival 'Kaszubskie Spotkania z Folklorem Swiata, Brusy-Wiele</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/403/Poland-Miedzynarodowy_Festiwal_Folkloru%2C_Strzegom"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowy
+  Festiwal Folkloru, Strzegom</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4548/Poland-International_Folklore_Vistula_Festival_-_Plock"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Vistula Festival.2020 Plock</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/669/Poland-International_Student_s_Folklore_Festival%2C_Katowice-Cieszyn"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Student's Folklore Festival, Katowice-Cieszyn</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4888/Poland-Folklore_Meeting_by_the_Bug_River"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folklore
+  Meeting by the 'Bug' River</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4887/Poland-International_Folk_Festival_%E2%80%9ESilesia%E2%80%9D"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folk Festival „Silesia”</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/401/Poland-Beskidy_Highlanders_Week_of_Culture%2C_Bielsko-Biala"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Beskidy
+  Highlanders Week of Culture, Bielsko-Biala</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/858/Poland-World_Folk_Review_Integration_%2C_Poznan"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>World
+  Folk Review 'Integration', Poznan</span></a></td>
+ </tr>
+ <tr height=333 style='height:249.6pt'>
+  <td height=333 class=xl65 width=64 style='height:249.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4875/Poland-Miedzynarodowe_Malopolskie_Spotkania_z_Folklorem_International_Folk_Meetings_Malopolska_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Miedzynarodowe
+  Malopolskie Spotkania z Folklorem International Folk Meetings Malopolska</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/429/Portugal-Festival_de_Folclore_Internacional_Alto_Minho"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  de Folclore Internacional Alto Minho</span></a></td>
+ </tr>
+ <tr height=291 style='height:218.4pt'>
+  <td height=291 class=xl65 width=64 style='height:218.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/426/Portugal-Festival_Celestino_Graca_-_A_Festa_das_Artes_e_das_Tradicoes_Populares_do_Mundo"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Celestino Graça.2020 A Festa das Artes e das Tradiç&otilde;es Populares do
+  Mundo</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/409/Portugal-_FestiMaiorca_Festival_Internacional_de_Folclore_de_Maiorca"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>'FestiMaiorca'
+  Festival Internacional de Folclore de Maiorca</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/674/Portugal-FOLK_AZORES%C2%AE_-_Festival_Internacional_de_Folclore_dos_Acores"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FOLK
+  AZORES®.2020 Festival Internacional de Folclore dos Açores</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/3006/Portugal-FOLK_Cantanhede_-_Semana_Internacional_de_Folclore"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FOLK
+  Cantanhede.2020 Semana Internacional de Folclore</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1020/Portugal-FOLKMONCAO_-_Festival_Internacional_Folclore"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FOLKMONÇ&Atilde;O.2020
+  Festival Internacional Folclore</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1000/Portugal-FOLKFARO_-_Folclore_Internacional_Cidade_de_Faro"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FOLKFARO.2020
+  Folclore Internacional Cidade de Faro</span></a></td>
+ </tr>
+ <tr height=250 style='height:187.2pt'>
+  <td height=250 class=xl65 width=64 style='height:187.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/420/Portugal-FESTARTE_-_Festival_Internacional_de_Artes_e_Tradicoes_Populares_de_Matosinhos"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FESTARTE.2020
+  Festival Internacional de Artes e Tradiç&otilde;es Populares de Matosinhos</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/417/Portugal-Festival_Internacional_de_Folclore_Rio"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folclore Rio</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4898/Portugal-FOLK_CINFAES_-_Art_s_e_Dancas_do_Mundo"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FOLK
+  CINF&Atilde;ES.2020 Art's e Danças do Mundo</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/414/Portugal-Dancas_do_Mundo_-_Festival_Internacional_de_Folclore_nas_Terras_da_Feira"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Danças
+  do Mundo.2020 Festival Internacional de Folclore nas Terras da Feira</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/450/Romania-International_Folklore_Festival_Floare_de_pe_Baragan_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Floare de pe Baragan'</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4636/Romania-_Festivalul_international_de_dansuri_folclorice_%2C%2CPLAIURILE_MIORITEI%2C"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festivalul
+  international de dansuri folclorice ,,PLAIURILE MIORITEI,</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4352/Romania-Intern._Folklore_Festival_Festivalul_Inimilor"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Intern.
+  Folklore Festival Festivalul Inimilor</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4773/Romania-The_International_Folklore_Festival_HORA_MARE_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>The
+  International Folklore Festival 'HORA MARE'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4430/Romania-_International_Folklore_Festival_DOINA_COVURLUIULUI"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival DOINA COVURLUIULUI</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4568/Romania-INTERNATIONAL_FOLKLORE_FESTIVAL_DOINA_AIUDULUI_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>INTERNATIONAL
+  FOLKLORE FESTIVAL''DOINA AIUDULUI''</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4353/Romania-International_Folklore_Festival_Cantecele_Muntilor"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival Cantecele Muntilor</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4731/Russia-International_Festival_of_Folklore_and_Trades_Sadko_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Festival of Folklore and Trades 'Sadko'</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/679/Russia-International_Folklore_Festival__Golden_Ring_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Golden Ring'</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4880/Russia-6th_CIOFF%C2%AE_World_Folkloriada_2020"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>6th
+  CIOFF® World Folkloriada 2020</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4774/Serbia_-_VR%C5%A0ACKI_VENAC_-Vr%C5%A1ac"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>VRŠACKI
+  VENAC'.2020Vršac</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4869/Serbia_-International_folklore_festival_ETNOFEST_-_Cacak"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  folklore festival ETNOFEST.2020 Cacak</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4713/Serbia_-INTERNATIONAL_FOLK_FESTIVAL_PIROT"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>INTERNATIONAL
+  FOLK FESTIVAL PIROT</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/1718/Serbia_-SREM_FOLK_FEST_-_Sremska_Mitrovica"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>SREM
+  FOLK FEST.2020 Sremska Mitrovica</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4870/Serbia_-BECEJ_FOLK_FEST-_Becej"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>BECEJ
+  FOLK FEST- Becej</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4321/Serbia_-INTERETNO_FESTIVAL_-_SUBOTICA"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>INTERETNO
+  FESTIVAL.2020 SUBOTICA</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4714/Serbia_-_INTERNATIONAL_STUDENTS%E2%80%99_FOLKLORE_FESTIVAL_-Ni%C5%A1"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>INTERNATIONAL
+  STUDENTS’ FOLKLORE FESTIVAL.2020Niš</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/803/Slovakia-International_Folklore_festival_in_Novohrad"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore festival in Novohrad</span></a></td>
+ </tr>
+ <tr height=270 style='height:202.8pt'>
+  <td height=270 class=xl65 width=64 style='height:202.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4881/Slovakia-National_Folk_Art_Festival_Celo%C5%A1tatny_ludovo-umeleck%C3%BD_festival_v_%C5%BDeliezovciach_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>National
+  Folk Art Festival (Celoštátny ludovo-umelecký festival v Želiezovciach)</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/469/Slovakia-International_Folklore_Festival_Myjava"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival Myjava</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/802/Slovakia-Folklore_Festival_Vychodna"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Folklore
+  Festival Vychodná</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4882/Slovakia-International_Folklore_Festival_Taki_sme%21_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore Festival 'Takí sme!'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4741/Slovenia-National_costumes_and_clothing_heritage_festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>National
+  costumes and clothing heritage festival</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4927/Slovenia-International_Folklore_festival_%C5%A0ENTFOLK"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore festival ŠENTFOLK</span></a></td>
+ </tr>
+ <tr height=83 style='height:62.4pt'>
+  <td height=83 class=xl65 width=64 style='height:62.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/960/Slovenia-Jurjevanje_folklore_festival"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Jurjevanje
+  folklore festival</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/484/Slovenia-International_CIOFF_Folklore_Festival_Folkart_Maribor"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  CIOFF Folklore Festival Folkart Maribor</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/3003/Slovenia-International_Folklore_festival_Od_Celja_do_%C5%BDalca_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>International
+  Folklore festival 'Od Celja do Žalca'</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/790/Spain-Festival_Folclorico_Internacional_La_Esteva_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Folclórico Internacional 'La Esteva'</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/686/Spain-FESTIVAL_INTERNATIONAL_DE_FOLKLORE_EN_EL_SEGURA-CIEZA"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FESTIVAL
+  INTERNATIONAL DE FOLKLORE EN EL SEGURA-CIEZA</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/495/Spain-MOSTRA_INTERNACIONAL_DE_DANSA_POPULAR"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>MOSTRA
+  INTERNACIONAL DE DANSA POPULAR</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/492/Spain-Jornadas_Folcloricas_Nazarenas_Internacionales"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Jornadas
+  Folclóricas Nazarenas Internacionales</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/508/Spain-Festival_Internacional_de_Folclore_de_Ciudad_Real"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folclore de Ciudad Real</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/684/Spain-Mostra_Folklorica_Internacional_Popular_de_Viveiro"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Mostra
+  Folklórica Internacional Popular de Viveiro</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4889/Spain-Mostra_Folclorica_Internacional_Infantil_Popular_de_Viveiro"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Mostra
+  Folclórica Internacional Infantil Popular de Viveiro</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/529/Spain-Festival_Internacional_de_Folclore_Cidade_da_Coruna_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folclore 'Cidade da Coru&ntilde;a'</span></a></td>
+ </tr>
+ <tr height=208 style='height:156.0pt'>
+  <td height=208 class=xl65 width=64 style='height:156.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/688/Spain-Encuentro_Internacional_de_Folklore_Ciudad_de_Zaragoza_%2C_Eifolk"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Encuentro
+  Internacional de Folklore 'Ciudad de Zaragoza', Eifolk</span></a></td>
+ </tr>
+ <tr height=229 style='height:171.6pt'>
+  <td height=229 class=xl65 width=64 style='height:171.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/789/Spain-Festival_Internacional_de_Musica%2C_Danza_y_Canciones_Populares_Folk_del_Mundo_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Música, Danza y Canciones Populares 'Folk del Mundo'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/682/Spain-Festival_Internacional_de_Folclore_en_el_Mediterraneo"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folclore en el Mediterráneo</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/505/Spain-Festival_Internacional_de_Folclore_Ciudad_de_Burgos_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folclore 'Ciudad de Burgos'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/526/Spain-Festival_International_de_Musica_y_Danza_Popular_de_Aviles"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  International de Música y Danza Popular de Avilés</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/724/Spain-Festival_Internacional_de_Folklore_Ciudad_de_Lorca_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Internacional de Folklore 'Ciudad de Lorca'</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/489/Spain-Festival_Folklorico_Internacional_de_Extremadura"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  Folklórico Internacional de Extremadura</span></a></td>
+ </tr>
+ <tr height=291 style='height:218.4pt'>
+  <td height=291 class=xl65 width=64 style='height:218.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/685/Spain-Festival_InternaCional_de_Folklore_Villa_de_Ingenio_MUESTRA_SOLIDARIA_DE_LOS_PUEBLOS_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  InternaCional de Folklore Villa de Ingenio 'MUESTRA SOLIDARIA DE LOS PUEBLOS'</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/541/Spain-Jornades_Internacionals_Folkloriques_de_Catalunya"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Jornades
+  Internacionals Folkl&ograve;riques de Catalunya</span></a></td>
+ </tr>
+ <tr height=104 style='height:78.0pt'>
+  <td height=104 class=xl65 width=64 style='height:78.0pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/522/Spain-Xornadas_de_Folclore_de_Ourense"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Xornadas
+  de Folclore de Ourense</span></a></td>
+ </tr>
+ <tr height=146 style='height:109.2pt'>
+  <td height=146 class=xl65 width=64 style='height:109.2pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/515/Spain-Nazioarteko_Folklore_Jaialda_-_Portugalete"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Nazioarteko
+  Folklore Jaialda.2020 Portugalete</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl65 width=64 style='height:93.6pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/687/Spain-Gala_Folklorica_Internacional_de_Ronda"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Gala
+  Folklórica Internacional de Ronda</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/563/Switzerland-FIFO_-_Festival_International_Folklorique_d_Octodure"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>FIFO.2020
+  Festival International Folklorique d'Octodure</span></a></td>
+ </tr>
+ <tr height=166 style='height:124.8pt'>
+  <td height=166 class=xl65 width=64 style='height:124.8pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/568/Switzerland-Rencontres_de_folklore_internationales_de_Fribourg_RFI_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Rencontres
+  de folklore internationales de Fribourg (RFI)</span></a></td>
+ </tr>
+ <tr height=187 style='height:140.4pt'>
+  <td height=187 class=xl65 width=64 style='height:140.4pt;border-top:none;
+  width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/576/Ukraine-Festival_International_Polesian_summer_with_Folklore_"
+  target="_parent"><span style='color:blue;font-size:12.0pt;font-weight:700;
+  text-decoration:none;font-family:Calibri, sans-serif;mso-font-charset:238'>Festival
+  International 'Polesian summer with Folklore'</span></a></td>
+ </tr>
+ <tr height=125 style='height:93.6pt'>
+  <td height=125 class=xl66 width=64 style='height:93.6pt;width:48pt'><a
+  href="http://www.cioff.org/events-festival.cfm/en/4319/Ukraine-International_Folklore_Festival_Etnovyr_"
